@@ -42,6 +42,8 @@ module.exports = {
         extend: {
             fontFamily: {
                 outfit: ["Outfit", "sans-serif"],
+                mulish: ["Mulish", "sans-serif"],
+                space: ["Space Mono", "sans-serif"],
             },
         },
     },
